@@ -1,3 +1,20 @@
 *{
     margin: 0;
 }
+body,hr{
+    height: 2px;
+    border-width: 0cap;
+    color: black;
+    background-color:white;
+}
+/* #temp1{
+    width: 200px;gu
+    height: 220px; 
+} */
+#temp2{
+    font-style: initial;
+    font-weight: bold;
+}
+.temp{
+    background-color: gray;
+}
